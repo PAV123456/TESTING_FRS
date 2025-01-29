@@ -13,8 +13,3 @@ This repository contains test cases for the User Login and Registration module. 
 ## 📂 Files Included  
 - **Test_Cases.docx** → Contains detailed test cases  
 - **README.md** → Project overview  
-
-## 💻 How to Use  
-Clone this repository using:  
-```bash
-git clone https://github.com/your-username/your-repository.git
